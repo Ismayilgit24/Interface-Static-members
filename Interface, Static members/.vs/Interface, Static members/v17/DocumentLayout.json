@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeAcademy\\Interface, Static members\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|d:\\codeacademy\\interface, static members\\interface, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|d:\\codeacademy\\interface, static members\\interface, static members\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\icodeacademy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|d:\\codeacademy\\interface, static members\\interface, static members\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|d:\\codeacademy\\interface, static members\\interface, static members\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63240547-101D-4630-9ED5-A7249CE04B21}|Interface, Static members\\Interface, Static members.csproj|solutionrelative:interface, static members\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Group.cs",
+              "RelativeDocumentMoniker": "Interface, Static members\\Group.cs",
+              "ToolTip": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Group.cs",
+              "RelativeToolTip": "Interface, Static members\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:25:24.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICodeAcademy.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\ICodeAcademy.cs",
+              "RelativeDocumentMoniker": "Interface, Static members\\ICodeAcademy.cs",
+              "ToolTip": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\ICodeAcademy.cs",
+              "RelativeToolTip": "Interface, Static members\\ICodeAcademy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:06:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Student.cs",
+              "RelativeDocumentMoniker": "Interface, Static members\\Student.cs",
+              "ToolTip": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Student.cs",
+              "RelativeToolTip": "Interface, Static members\\Student.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:25:38.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Program.cs",
+              "RelativeDocumentMoniker": "Interface, Static members\\Program.cs",
+              "ToolTip": "D:\\CodeAcademy\\Interface, Static members\\Interface, Static members\\Program.cs*",
+              "RelativeToolTip": "Interface, Static members\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:23:03.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

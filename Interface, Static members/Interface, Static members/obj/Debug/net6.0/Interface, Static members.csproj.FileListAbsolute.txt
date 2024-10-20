@@ -1,0 +1,14 @@
+D:\CodeAcademy\Interface, Static members\Interface, Static members\bin\Debug\net6.0\Interface, Static members.exe
+D:\CodeAcademy\Interface, Static members\Interface, Static members\bin\Debug\net6.0\Interface, Static members.deps.json
+D:\CodeAcademy\Interface, Static members\Interface, Static members\bin\Debug\net6.0\Interface, Static members.runtimeconfig.json
+D:\CodeAcademy\Interface, Static members\Interface, Static members\bin\Debug\net6.0\Interface, Static members.dll
+D:\CodeAcademy\Interface, Static members\Interface, Static members\bin\Debug\net6.0\Interface, Static members.pdb
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.AssemblyInfoInputs.cache
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.AssemblyInfo.cs
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.dll
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\refint\Interface, Static members.dll
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.pdb
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\Interface, Static members.genruntimeconfig.cache
+D:\CodeAcademy\Interface, Static members\Interface, Static members\obj\Debug\net6.0\ref\Interface, Static members.dll
